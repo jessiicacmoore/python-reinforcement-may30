@@ -10,7 +10,6 @@ def select_cards(possible_cards, hand):
                     possible_cards.remove(current_card)
             else:
                 break
-
     return hand
 
 
